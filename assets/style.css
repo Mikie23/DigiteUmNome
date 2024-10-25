@@ -1,0 +1,21 @@
+h1{
+position: relative;
+left: 500px;
+}
+
+input{
+    display: flex;
+    position: relative;
+    left: 450px;
+}
+
+* {
+    font-size: 1.4rem;
+}
+
+button{
+    margin: 20px;
+    display: flex;
+    position: relative;
+    left: 575px;
+}
