@@ -9,9 +9,8 @@ if (nome) {
 }
 
 }
+
 let botao = document.querySelector("#botao");
-
-
 
 botao.addEventListener("click", () =>{
     avisar()

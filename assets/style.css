@@ -2,6 +2,10 @@ h1{
 position: relative;
 left: 500px;
 }
+h2{
+    position: relative;
+    left: 490px;  
+}
 
 input{
     display: flex;
